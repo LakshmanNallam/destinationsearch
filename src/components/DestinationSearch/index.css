@@ -1,0 +1,28 @@
+.mainDiv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.itemsCon {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 50%;
+}
+
+.inpu {
+  border-width: 0px;
+  border-style: solid;
+  border-color: white;
+  background-color: transparent;
+}
+.seaarchicon {
+  width: 12%;
+}
+.inputtt {
+  background-color: #f1f5f9;
+  border-radius: 14px;
+}
